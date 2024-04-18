@@ -17,12 +17,12 @@ Feature: Equities: ACP Equities
       | uk      | investing.com/equities/france-telecom                   | Orange SA (ORAN)                         |
       | ca      | investing.com/equities/portugal-telecom                 | Pharol SGPS SA (PHRA)                    |
       | au      | investing.com/equities/portugal-telecom                 | Pharol SGPS SA (PHRA)                    |
-#      | ph      | investing.com/equities/taiwan-semicond.manufacturing-co | Taiwan Semiconductor Manufacturing (TSM) |
-#      | ng      | investing.com/equities/taiwan-semicond.manufacturing-co | Taiwan Semiconductor Manufacturing (TSM) |
-#      | de      | investing.com/equities/france-telecom                   | Orange SA (ORAN)                         |
-#      | es      | investing.com/equities/portugal-telecom                 | Pharol SGPS SA (PHRA)                    |
-#      | mx      | investing.com/equities/taiwan-semicond.manufacturing-co | Taiwan Semiconductor Manufacturing (TSM) |
-#      | fr      | investing.com/equities/taiwan-semicond.manufacturing-co | Taiwan Semiconductor Manufacturing (TSM) |
+      | ph      | investing.com/equities/taiwan-semicond.manufacturing-co | Taiwan Semiconductor Manufacturing (TSM) |
+      | ng      | investing.com/equities/taiwan-semicond.manufacturing-co | Taiwan Semiconductor Manufacturing (TSM) |
+      | de      | investing.com/equities/france-telecom                   | Orange SA (ORAN)                         |
+      | es      | investing.com/equities/portugal-telecom                 | Pharol SGPS SA (PHRA)                    |
+      | mx      | investing.com/equities/taiwan-semicond.manufacturing-co | Taiwan Semiconductor Manufacturing (TSM) |
+      | fr      | investing.com/equities/taiwan-semicond.manufacturing-co | Taiwan Semiconductor Manufacturing (TSM) |
 
 
   @tmsLink=CT-6973
