@@ -67,7 +67,7 @@ pipeline {
                 }
 
                 cleanWs()
-                git branch: "${params.BRANCH}", credentialsId: 'github-app', url: 'https://github.com/nanurev46/selenium-cucumber-testng-selenoid.git'
+                git branch: "${params.BRANCH}", credentialsId: 'testing-selenoid', url: 'https://github.com/nanurev46/selenium-cucumber-testng-selenoid.git'
             }
         }
 
